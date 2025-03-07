@@ -1,4 +1,6 @@
 .ipynb_checkpoints
+all_csv
+all_images
 csv*
 image*
 stacked_testing_images
